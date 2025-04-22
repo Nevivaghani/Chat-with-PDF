@@ -132,14 +132,14 @@ streamlit run streamlit_app.py
 
 ![App Screenshot][def5]
 
-[def]: ./assets/chat with pdf1.png
+[def]: ./assets/chat%20with%20pdf1.png
 
-[def2]: ./assets/chat with pdf2.png
+[def2]: ./assets/chat%20with%20pdf2.png
 
-[def3]: ./assets/chat with pdf3.png
+[def3]: ./assets/chat%20with%20pdf3.png
 
-[def4]: ./assets/chat with pdf4.png
+[def4]: ./assets/chat%20with%20pdf4.png
 
-[def5]: ./assets/chat with pdf5.png
+[def5]: ./assets/chat%20with%20pdf5.png
 
 
